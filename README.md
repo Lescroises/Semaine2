@@ -22,7 +22,6 @@
         <ul><h4>Mes centres d'intérêt</h4>
             <li>Jeux vidéos</li>
             <li>Internet</li>
-            
         </ul>
      </main>
      <footer>
